@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**haiatyamy6-rgb/haiatyamy6-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Haneen 👋
 
-Here are some ideas to get you started:
+Aspiring Front-End Developer | Learning Machine Learning & AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🌱 Learning Front-End Development with React.
+- 🐍 Learning Python for Machine Learning.
+- 🧠 Exploring AI and practical projects.
+- 🎯 Focused on building projects and improving my skills.
+
+## Technologies I'm Learning
+- HTML, CSS, JavaScript
+- React
+- Python
+- NumPy, Pandas, Matplotlib
+- Git & GitHub
+
+## Goals
+- Build practical Front-End projects.
+- Learn Machine Learning fundamentals.
+- Share my learning journey through code.
+
